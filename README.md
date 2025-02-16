@@ -1,16 +1,15 @@
-## Hi there 👋
+# Hi there! 👋 I'm powersjjzbgeffrey321
 
-<!--
-**powersjjzbgeffrey321/powersjjzbgeffrey321** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🌺 🥋 🎤 🥁 Creating amazing things with cloud computing 🌺 🥋 🎤 🥁
 
-Here are some ideas to get you started:
+## About Me
+🎬 🏄 🎤 🎽 Looking to contribute to agile methodology 🎬 🏄 🎤 🎽
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### What I'm Working On
+🎾 🎬 🏒 Building the future with robotics 🎾 🎬 🏒
+
+### Fun Facts
+🏸 🏑 Creating amazing things with robotics 🏸 🏑
+
+---
+🎯 🎵 🎱 🥁 🏓 Thanks for visiting my profile! 🎾 🎬 🎮 🎱 🏏
